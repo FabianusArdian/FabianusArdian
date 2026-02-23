@@ -26,6 +26,4 @@
 
 🙌 From Ardian
 
-### Deployment**
 
-<p>click this link: (https://fabianusardian.github.io/FabianusArdian/)</p>👀
